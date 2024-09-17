@@ -35,7 +35,6 @@ SELECT CAST(SUBSTRING(NOMBRE,1,CHARINDEX ('@', NOMBRE)-1) AS varchar (100)) AS c
 	total_views,
 	total_videos
 FROM top_uk_youtubers_2024
-
 ```
 
 ## 1. Who are the top 10 youtuber with the most subscribers
