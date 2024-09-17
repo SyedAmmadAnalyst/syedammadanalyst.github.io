@@ -302,7 +302,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output 
-![data-type](assets/images/data-type.png)
+![data-type](assets/images/data-types.png)
 
 ## Duplicate count check
 ### SQL query 
