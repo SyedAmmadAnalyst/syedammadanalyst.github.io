@@ -26,6 +26,8 @@
 --	top_uk_youtubers_2024
 
 --CHARINDEX
+```
+```sql
 SELECT CHARINDEX ('@', NOMBRE),NOMBRE FROM top_uk_youtubers_2024
 
 --SUBSTRING
